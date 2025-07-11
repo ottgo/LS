@@ -2071,7 +2071,7 @@ https://tunebox.space/‍tvs
 
 
 #EXTINF:-1 tvg-chno="123" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvs+.png",123 TVS+
-#EXTGRP:MALAYSlA
+#EXTGRP:MALAYSIA
 #EXTVLCOPT:network-caching=1000
 https://tunebox.space/‍tvs+
 
