@@ -1945,7 +1945,7 @@ https://tunebox.space/‍tv2
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://tunebox.space/‍tv3
 
-#EXTINF:-1 group-title="DRAMA SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="DRAMA SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1976,7 +1976,7 @@ https://tunebox.space/‍fitrah
 
 
 
-#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -2191,7 +2191,7 @@ https://tunebox.space/‍dramahebat
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentlogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="ENTERTAINMENT" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentlogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -2269,7 +2269,7 @@ https://tunebox.space/‍vellithirai
 https://tunebox.space/‍suntv
 
 
-#EXTINF:-1 group-title="MUSIC" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/musiclogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MUSIC" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/musiclogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -2288,7 +2288,7 @@ https://tunebox.space/‍adithya
 
 
 
-#EXTINF:-1 group-title="NEWS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="NEWS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -2709,7 +2709,7 @@ https://tunebox.space/‍dwenglish
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
 https://tunebox.space/‍france24
 
-#EXTINF:-1 group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarylogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarylogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -2754,7 +2754,7 @@ https://tunebox.space/‍bbcearth
 https://tunebox.space/‍history
 
 
-#EXTINF:-1 group-title="KIDS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="KIDS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidslogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -2870,7 +2870,7 @@ https://tunebox.space/‍axn
 https://tunebox.space/‍hitsnow
 
 
-#EXTINF:-1 group-title="LIFESTYLE" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifestylelogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us", ▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="LIFESTYLE" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifestylelogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -2964,7 +2964,7 @@ https://tunebox.space/‍mtvlive
 
 
 
-#EXTINF:-1 group-title="SPORTS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1logo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SPORTS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1logo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -3215,7 +3215,7 @@ https://tunebox.space/‍golf
 https://tunebox.space/‍premiersport
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ M E W A T C H ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M E W A T C H ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -3258,7 +3258,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.Chinese.distro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mediacorp.png" group-title="ENTERTAINMENT", MEDIACORP ENTERTAINMENT CHINESE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -3466,7 +3466,7 @@ https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ P H I L I P H I N E ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P H I L I P H I N E ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -3537,7 +3537,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDoma
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-name="▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/null.png" group-title="ENTERTAINMENT",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
@@ -3801,7 +3801,7 @@ http://fl2.moveonjoy.com/WGN/index.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4122,7 +4122,7 @@ MOVIES
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4282,7 +4282,7 @@ https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us", ▬▬▬▬▬▬▬ D I S T R O  ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ D I S T R O  ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-id="Bollywood.HD.distro"  group-title="MOVIES" ch-number="190" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bollywoodhd.png",BOLLYWOOD HD
@@ -4298,7 +4298,7 @@ https://ott.udptv.net/stream/iptv/screamflix/master.m3u8?u=discord.gg/civ3&p=fb3
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ I N D I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4328,7 +4328,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
 
 
-#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us", ▬▬▬▬▬▬▬ P H I L I P P I N E S  ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ P H I L I P P I N E S  ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4503,7 +4503,7 @@ https://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=f
 
 
 
-#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4628,7 +4628,7 @@ https://cdn-2.pishow.tv/live/419/master.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ R A K U T E N ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ R A K U T E N ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4662,7 +4662,7 @@ https://jmp2.uk/sam-GB2600013BO.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us", ▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4893,7 +4893,7 @@ http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4926,7 +4926,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us", ▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -4984,7 +4984,7 @@ https://fl3.moveonjoy.com/TV_Land/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ P H I L I P P I N E S  ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P H I L I P P I N E S  ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -5020,7 +5020,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn.mpd
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -5301,7 +5301,7 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 
 
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -5397,7 +5397,7 @@ https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us", ▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
@@ -5550,7 +5550,7 @@ https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",F A S T  T V
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",F A S T  T V
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidstv.png",FAST TV KIDS 1
@@ -5630,7 +5630,7 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",T N T
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",T N T
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-chno="289" tvg-name="TNT SPORTS 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 1
@@ -5667,7 +5667,7 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us",B R A Z I L
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",B R A Z I L
 https://tunebox.shop/promo2
 
 
@@ -6694,7 +6694,7 @@ https://fl3.moveonjoy.com/Start_Tv/mono.m3u8
 https://fl3.moveonjoy.com/VICELAND/mono.m3u8
 
 
-p#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="dummy.us", ▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
+p#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
