@@ -1942,10 +1942,6 @@ https://tunebox.space/‍tv1
 https://tunebox.space/‍tv2
 
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv3.png",103 TV3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://tunebox.space/‍tv3
 
 #EXTINF:-1 group-title="DRAMA SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
