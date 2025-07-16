@@ -1942,18 +1942,18 @@ https://tunebox.space/‍tv1.m3u
 https://tunebox.space/‍tv2.m3u
 
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv3.png",103 TV3
-https://tunebox.space/‍tv3.m3u
+https://tunebox.space/‍tv3.ts
 
-#EXTINF:-1 group-title="DRAMA SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ M A L A Y S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 ch-number="104" group-title="MALAYSIA;DRAMA SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ria.png" tvg-id="104.astro",104 RIA
+#EXTINF:-1 ch-number="104" group-title="MALAYSIA;SERIES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ria.png" tvg-id="104.astro",104 RIA
 https://tunebox.space/‍ria.mpd
 
-#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/prima.png" group-title="MALAYSIA;DRAMA SERIES",105 PRIMA
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/prima.png" group-title="MALAYSIA;SERIES",105 PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2096,7 +2096,7 @@ https://tunebox.space/‍apetito.m3u
 
 
 
-#EXTINF:-1 tvg-id="112.astro" ch-number="127" group-title="MALAYSIA;DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rania.png",127 RANIA
+#EXTINF:-1 tvg-id="112.astro" ch-number="127" group-title="MALAYSIA;SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rania.png",127 RANIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2105,7 +2105,7 @@ https://tunebox.space/‍rania.mpd
 
 
 
-#EXTINF:-1 tvg-id="113.astro" ch-number="128" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aura.png" group-title="MALAYSIA;DRAMA SERIES",128 AURA
+#EXTINF:-1 tvg-id="113.astro" ch-number="128" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aura.png" group-title="MALAYSIA;SERIES",128 AURA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2182,7 +2182,7 @@ https://tunebox.space/‍jomngaji.mpd
 https://tunebox.space/‍filemmantap.mpd
 
 
-#EXTINF:-1 group-title="MALAYSIA;DRAMA SERIES" tvg-id="DramaHebat" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramahebat.png" ch-number="132",132 DRAMA HEBAT
+#EXTINF:-1 group-title="MALAYSIA;SERIES" tvg-id="DramaHebat" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramahebat.png" ch-number="132",132 DRAMA HEBAT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2215,7 +2215,7 @@ https://tunebox.space/‍lawaksentral.mpd
 
 
 
-#EXTINF:-1 tvg-id="116.astro" ch-number="156" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/colorshindi.png" group-title="MALAYSIA;DRAMA SERIES",156 COLORS HINDI
+#EXTINF:-1 tvg-id="116.astro" ch-number="156" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/colorshindi.png" group-title="MALAYSIA;SERIES",156 COLORS HINDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2320,7 +2320,7 @@ https://tunebox.space/‍starvijay.mpd
 
 
 
-#EXTINF:-1 tvg-id="222.astro" ch-number="222" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/colorstamil.png" group-title="MALAYSIA;DRAMA SERIES",222 COLORS TAMIL
+#EXTINF:-1 tvg-id="222.astro" ch-number="222" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/colorstamil.png" group-title="MALAYSIA;SERIES",222 COLORS TAMIL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2348,13 +2348,13 @@ https://tunebox.space/‍thanga.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/‍zeecinema.mpd
 
-#EXTINF:-1 group-title="MALAYSIA;DRAMA SERIES" ch-number="133" tvg-id="DramaHotpot" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramahotpot.png",290 DRAMA HOTPOT
+#EXTINF:-1 group-title="MALAYSIA;SERIES" ch-number="133" tvg-id="DramaHotpot" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramahotpot.png",290 DRAMA HOTPOT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://tunebox.space/‍dramahotpot.mpd
 
-#EXTINF:-1 tvg-id="300.astro" ch-number="300" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iqiyi.png" group-title="MALAYSIA;DRAMA SERIES",300 iQIYI
+#EXTINF:-1 tvg-id="300.astro" ch-number="300" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iqiyi.png" group-title="MALAYSIA;SERIES",300 iQIYI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2375,7 +2375,7 @@ https://tunebox.space/‍tvbclassic.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/‍aec.mpd
 
-#EXTINF:-1 ch-number="308" tvg-id="308.astro" ch-number=308" group-title="MALAYSIA;DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/qj.png",308 QUAN JIA
+#EXTINF:-1 ch-number="308" tvg-id="308.astro" ch-number=308" group-title="MALAYSIA;SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/qj.png",308 QUAN JIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2403,7 +2403,7 @@ https://tunebox.space/‍celestialmovies.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://tunebox.space/‍tvbjade.mpd
 
-#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-title="MALAYSIA;DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aod.png",311 AOD
+#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-title="MALAYSIA;SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aod.png",311 AOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2499,14 +2499,14 @@ https://tunebox.space/‍kbsworld.mpd
 
 
 
-#EXTINF:-1 tvg-id="393.astro" ch-number="393" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/one.png" group-title="MALAYSIA;DRAMA SERIES",393 ONE
+#EXTINF:-1 tvg-id="393.astro" ch-number="393" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/one.png" group-title="MALAYSIA;SERIES",393 ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/‍one.mpd
 
 
-#EXTINF:-1 tvg-id="395.astro" ch-number="395" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvn.png" group-title="MALAYSIA;DRAMA SERIES",395 TVN
+#EXTINF:-1 tvg-id="395.astro" ch-number="395" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvn.png" group-title="MALAYSIA;SERIES",395 TVN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2556,7 +2556,7 @@ https://tunebox.space/‍boo.mpd
 https://tunebox.space/‍hbo.mpd
 
 
-#EXTINF:-1 tvg-id="412.astro" ch-number="412" group-title="MALAYSIA;DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemax.png",412 CINEMAX
+#EXTINF:-1 tvg-id="412.astro" ch-number="412" group-title="MALAYSIA;SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemax.png",412 CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2951,7 +2951,7 @@ https://tunebox.space/‍cbeebies.mpd
 
 
 
-#EXTINF:-1 ch-number="701" tvg-id="701.astro" group-title="MALAYSIA;DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png",701 AXN
+#EXTINF:-1 ch-number="701" tvg-id="701.astro" group-title="MALAYSIA;SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png",701 AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2981,7 +2981,7 @@ https://tunebox.space/‍lifetime.mpd
 
 
 
-#EXTINF:-1 tvg-id="706.astro" ch-number="706" group-title="MALAYSIA;DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hits.png",706 HITS
+#EXTINF:-1 tvg-id="706.astro" ch-number="706" group-title="MALAYSIA;SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hits.png",706 HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3568,9 +3568,9 @@ https://tunebox.shop/promo2
 
 
 
+#EXTINF:-1 tvg-id="50663" tvg-name="PBO.PH" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbo.png" group-title="ENTERTAINMENT",PBO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-#EXTINF:-1 tvg-id="50663" tvg-name="PBO.PH" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbo.png" group-title="ENTERTAINMENT",PBO
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 
@@ -3591,9 +3591,9 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 
 
 
+#EXTINF:-1 tvg-id="429768" tvg-name="Rock.Entertainment.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockentertainment.png" group-title="ENTERTAINMENT",ROCK ENTERTAIMENT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
-#EXTINF:-1 tvg-id="429768" tvg-name="Rock.Entertainment.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockentertainment.png" group-title="ENTERTAINMENT",ROCK ENTERTAIMENT
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 
@@ -3637,8 +3637,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDoma
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
-#EXTINF:-1 tvg-name="▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/null.png" group-title="ENTERTAINMENT",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
-https://tunebox.space/promo2
+
 
 
 #EXTINF:-1 tvg-name="AWE" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/a&e.png" group-title="ENTERTAINMENT",AWE
@@ -4385,21 +4384,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Bollywood.Classic.distro" ch-number="192" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bollywoodclassic.png",BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="199" tvg-name="SCREAMFLIX" tvg-id="Scream.TV.distro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/screamflix.png" group-title="MOVIES",SCREAMFLIX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/screamflix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+#EXTINF:-1 tvg-id="sonymax" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonymax.png" group-title="MOVIES",SONY MAX
+https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="sonymax2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonymax2.png" group-title="MOVIES",SONY MAX 2
+https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-chno="144" tvg-name="MOVIES NOW" tvg-id="MOVIES.NOW.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moviesnow.png" group-title="MOVIES",MOVIES NOW FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/moviesnow/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
+#EXTINF:-1 tvg-id="sonymoviesus" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonymoviesus.png" group-title="MOVIES",SONY MOVIES USA
+https://tiger-hub.vercel.app/SONY/MoviesUS/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="and.Flix.HD.in" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/&flix.png" group-title="MOVIES", &FLIX
@@ -4413,7 +4409,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sonypix.png" group-title="MOVIES" tvg-id="SONY.PIX.in" tvg-name="SonyPix.in", SONY PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
+https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="STAR.MOVIES.in" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starmovies.png" group-title="MOVIES", STAR MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -4428,14 +4424,14 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="YES.Network.us" tvg-logo="0000",ACTION HOLLYWOOD MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-id="YES.Network.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/actionhollywoodmovies.png",ACTION HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="YES.Network.us" tvg-logo="0000",B4U KADAK
+#EXTINF:-1 group-title="MOVIES" tvg-id="YES.Network.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/b4ukadak.png",B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="0000" tvg-logo="0000" tvg-name="0000",B4U MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-id="0000" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/b4umovies.png" tvg-name="0000",B4U MOVIES
 https://cdn-2.pishow.tv/live/419/master.m3u8
 
 
@@ -4462,15 +4458,16 @@ https://tunebox.shop/promo2
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
+#EXTINF:-1 tvg-id="TAPACTIONFLIX.ph" tvg-name="TapAction Flix" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapaction.png" group-title="MOVIES",TAP ACTION FLIX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-#EXTINF:-1 tvg-id="TAPACTIONFLIX.ph" tvg-name="TapAction Flix" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapaction.png" group-title="MOVIES",TAP ACTION FLIX
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 
+
+#EXTINF:-1 tvg-id="TAPMOVIES.ph" tvg-name="TAP MOVIES tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tapmovies.png" group-title="MOVIES",TAP MOVIES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-#EXTINF:-1 tvg-id="TAPMOVIES.ph" tvg-name="TAP MOVIES tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tapmovies.png" group-title="MOVIES",TAP MOVIES
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 
@@ -4507,68 +4504,46 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 
 
-#EXTINF:-1 tvg-chno="126" tvg-name="IHEART MOVIES" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iheartmovies.png" group-title="MOVIES",IHEART MOVIES FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="135" tvg-name="KOREAN BLOCKBUSTERS" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/koreanblockbusters.png" group-title="MOVIES",KOREAN BLOCKBUSTERS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/koreanblockbusters/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-#EXTINF:-1 tvg-chno="174" tvg-name="OCN MOVIES" tvg-id="OCN.Movies.kr" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ocnmovies.png" group-title="MOVIES",OCN MOVIES FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/ocnmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="175" tvg-name="OCN MOVIES 2" tvg-id="OCN.Movies2.kr tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ocnmovies.png" group-title="MOVIES",OCN MOVIES 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
 
 
 #EXTINF:-1 tvg-chno="137" tvg-name="LOTUS MACAU PRD" tvg-id="322473" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lotusmacau.png" group-title="MOVIES",LOTUS MACAU PRD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/lotusmacau/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd 
 
-#EXTINF:-1 tvg-chno="78" tvg-name="DREAMWORKS TAGALIZED" tvg-id="322458" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dreamworks.png" group-title="MOVIES",DREAMWORKS TAGALIZED FHD
+
+
+#EXTINF:-1 tvg-chno="287" tvg-name="TMC" tvg-id="322474" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tmc.png" group-title="MOVIES",TMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/dreamworkstagalized/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-#EXTINF:-1 tvg-chno="287" tvg-name="TMC" tvg-id="322474" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tmc.png" group-title="MOVIES",TMC FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tmc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
 #EXTINF:-1 tvg-chno="304" tvg-name="TVN MOVIES PINOY" tvg-id="434447" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png" group-title="MOVIES",TVN MOVIES PINOY FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tvnmoviespinoy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="305" tvg-name="UNIVERSAL MOVIES" tvg-id="427994" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universalmovies.png" group-title="MOVIES",STUDIO UNIVERSAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/fubo/universalmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="429756" tvg-name="CINEMO!" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemo.png" group-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/philipineslogo3.png" group-title="MOVIES",CINEMO! 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="429756" tvg-name="CINEMO!" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemo.png" group-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/philipineslogo3.png" group-title="MOVIES",CINEMO! 
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+
+#EXTINF:-1 tvg-id="7864" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemaone.png" group-title="MOVIES",CINEMAONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="7864" tvg-name="Cinema One" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemaone.png" group-title="MOVIES",CINEMAONE 
-http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
+
+#EXTINF:-1 tvg-id="408276" tvg-name="VIVA Cinema" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/viva.png" group-title="MOVIES",VIVA CINEMA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-#EXTINF:-1 tvg-id="408276" tvg-name="VIVA Cinema" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/viva.png" group-title=in,VIVA CINEMA
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 
@@ -4589,17 +4564,20 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
 #EXTINF:-1 tvg-id="11811" tvg-name="THRILL" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/thrill.png" group-title="MOVIES",THRILL PH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/thrill/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-#EXTINF:-1 tvg-id="429734" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVIES",ROCK EXTREME PH
+#EXTINF:-1 tvg-id="429734" tvg-name="ROCK EXTREME HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="MOVIES",ROCK ACTION PH
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
+
+#EXTINF:-1 tvg-id="157088" tvg-name="Celestial Movies Pinoy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIE PINOY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="157088" tvg-name="Celestial Movies Pinoy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIE PINOY
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4608,21 +4586,6 @@ http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDoma
 http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-chno="56" tvg-name="CIGNAL DREAMWORKS" tvg-id="12652" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dreamworks.png" group-title="MOVIES",CIGNAL DREAMWORKS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="57" tvg-name="CINEMA ONE GLOBAL" tvg-id="Cinema.One.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemaone.png" group-title="MOVIES",CINEMA ONE GLOBAL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="58" tvg-name="CINEMAX" tvg-id="Cinemax.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemax.png" group-title="MOVIES",CINEMAX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="59" tvg-name="CINEMO GLOBAL" tvg-id="CINEMO!.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemo.png" group-title="MOVIES",CINEMO GLOBAL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 
 
@@ -4723,7 +4686,7 @@ http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true",SKY CINEMA SUSPENSE
+#EXTINF:-1 group-title="MOVIES" tvg-id="YES.Network.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skycinemasuspense.png",SKY CINEMA SUSPENSE
 https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
 
 
@@ -5001,24 +4964,24 @@ https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 
 
 
-#EXTINF:-1 tvg-id="412113" tvg-name="Astro Sensasi HD" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/astrosensasi.png",SENSASI
+#EXTINF:-1 tvg-id="412113" tvg-name="Astro Sensasi HD" group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/astrosensasi.png",SENSASI
 http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
-#EXTINF:-1 tvg-id="ONE.HD.id" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/one.png",ONE ID
+#EXTINF:-1 tvg-id="ONE.HD.id" group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/one.png",ONE ID
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 
-#EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hits.png" group-title="DRAMA SERIES",HITS ID
+#EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hits.png" group-title="SERIES",HITS ID
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
@@ -5026,13 +4989,13 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="AXN.HD.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png" group-title="DRAMA SERIES",AXN ID
+#EXTINF:-1 tvg-id="AXN.HD.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png" group-title="SERIES",AXN ID
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08 
 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
-#EXTINF:-1 tvg-id="Citra.Drama.id" group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/citradrama.png",CITRA DRAMA
+#EXTINF:-1 tvg-id="Citra.Drama.id" group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/citradrama.png",CITRA DRAMA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
@@ -5040,20 +5003,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us", ▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
 
 
-#EXTINF:-1 tvg-name="COZI TV" tvg-id="ktel.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cozitv.png" group-title="DRAMA SERIES",COZI TV
+#EXTINF:-1 tvg-name="COZI TV" tvg-id="ktel.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cozitv.png" group-title="SERIES",COZI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/COZI_TV/mono.m3u8
 https://fl3.moveonjoy.com/COZI_TV/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="HALLMARK DRAMA" tvg-id="HallmarkDrama.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hallmarktv.png" group-title="DRAMA SERIES",HALLMARK DRAMA USA
+#EXTINF:-1 tvg-name="HALLMARK DRAMA" tvg-id="HallmarkDrama.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hallmarktv.png" group-title="SERIES",HALLMARK DRAMA USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/HALLMARK_DRAMA/mono.m3u8
 
@@ -5061,14 +5024,14 @@ https://fl3.moveonjoy.com/HALLMARK_DRAMA/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="FREE FORM" tvg-id="Freeform.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/freeform.png" group-title="DRAMA SERIES",FREE FORM USA
+#EXTINF:-1 tvg-name="FREE FORM" tvg-id="Freeform.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/freeform.png" group-title="SERIES",FREE FORM USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/FREE_FORM/mono.m3u8
 
 
 
 
-#EXTINF:-1 tvg-name="FXX" tvg-id="FXX.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/fxx.png" group-title="DRAMA SERIES",FXX USA
+#EXTINF:-1 tvg-name="FXX" tvg-id="FXX.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/fxx.png" group-title="SERIES",FXX USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/FXX/mono.m3u8
 
@@ -5076,13 +5039,13 @@ https://fl3.moveonjoy.com/FXX/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="ION PLUS" tvg-id="INPLUS.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ionplus.png" group-title="DRAMA SERIES",ION PLUS USA
+#EXTINF:-1 tvg-name="ION PLUS" tvg-id="INPLUS.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ionplus.png" group-title="SERIES",ION PLUS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/ION_Plus/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="ION TV" tvg-id="ON.TV.fr" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iontv.png" group-title="DRAMA SERIES",ION TV USA
+#EXTINF:-1 tvg-name="ION TV" tvg-id="ON.TV.fr" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iontv.png" group-title="SERIES",ION TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/ION_TV/mono.m3u8
 
@@ -5091,80 +5054,82 @@ https://fl3.moveonjoy.com/ION_TV/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="TV LAND" tvg-id="TVLand.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvland.png" group-title="DRAMA SERIES",TV LAND USA
+#EXTINF:-1 tvg-name="TV LAND" tvg-id="TVLand.us@East" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvland.png" group-title="SERIES",TV LAND USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://fl3.moveonjoy.com/TV_Land/mono.m3u8
 
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P H I L I P P I N E S  ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P H I L I P P I N E S  ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
 
 
 
-#EXTINF:-1 tvg-chno="280" tvg-name="TAP EDGE" tvg-id="Tap.Edge.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapedge.png" group-title="DRAMA SERIES",TAP EDGE FHD
+#EXTINF:-1 tvg-chno="280" tvg-name="TAP EDGE" tvg-id="Tap.Edge.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapedge.png" group-title="SERIES",TAP EDGE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tapedge/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-#EXTINF:-1 tvg-id="Hits.Hd.ph" tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hits.png" group-title="DRAMA SERIES",HITS PH
+#EXTINF:-1 tvg-id="Hits.Hd.ph" tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hits.png" group-title="SERIES",HITS PH
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-#EXTINF:-1 tvg-id="322499" tvg-name="Cg.Tvnpre.ph" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvn.png" group-title="DRAMA SERIES",TVN PREMIUM
+#EXTINF:-1 tvg-id="322499" tvg-name="Cg.Tvnpre.ph" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvn.png" group-title="SERIES",TVN PREMIUM
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-#EXTINF:-1 tvg-id="322523" tvg-name="WARNER TV" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/warnertv.png" group-title="DRAMA SERIES",WARNER TV PH
+#EXTINF:-1 tvg-id="322523" tvg-name="WARNER TV" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/warnertv.png" group-title="SERIES",WARNER TV PH
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
-#EXTINF:-1 tvg-id="429764" tvg-name="Axn.ph" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/axn.png" group-title="DRAMA SERIES",AXN PH
+#EXTINF:-1 tvg-id="429764" tvg-name="Axn.ph" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/axn.png" group-title="SERIES",AXN PH
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn.mpd
 
 
 
-#EXTINF:-1 group-title="DRAMA SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P L U T O  T V ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
 
 
 
 
-#EXTINF:-1 tvg-name="Baywatch" tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/baywatch.png" group-title="DRAMA SERIES",Baywatch
+#EXTINF:-1 tvg-name="Baywatch" tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/baywatch.png" group-title="SERIES",Baywatch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5d815eb889bca2ce7b746fdd.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BET x Tyler Perry Drama" tvg-id="666b38a5efa2a10008b15b3a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tylerperrydrama.png" group-title="DRAMA SERIES",BET x Tyler Perry Drama
+#EXTINF:-1 tvg-name="BET x Tyler Perry Drama" tvg-id="666b38a5efa2a10008b15b3a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tylerperrydrama.png" group-title="SERIES",BET x Tyler Perry Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Beverly Hills 90210" tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/90210.png" group-title="DRAMA SERIES",Beverly Hills 90210
+#EXTINF:-1 tvg-name="Beverly Hills 90210" tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/90210.png" group-title="SERIES",Beverly Hills 90210
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Blue Bloods" tvg-id="61b3b8c645b45d0007a9bb8d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bluebloods.png" group-title="DRAMA SERIES",Blue Bloods
+#EXTINF:-1 tvg-name="Blue Bloods" tvg-id="61b3b8c645b45d0007a9bb8d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bluebloods.png" group-title="SERIES",Blue Bloods
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BritBox Mysteries" tvg-id="60f5d389985a0c0007357304" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/britboxmysteries.png" group-title="DRAMA SERIES",BritBox Mysteries
+#EXTINF:-1 tvg-name="BritBox Mysteries" tvg-id="60f5d389985a0c0007357304" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/britboxmysteries.png" group-title="SERIES",BritBox Mysteries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 
@@ -5174,145 +5139,145 @@ https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Criminal Minds" tvg-id="65653817c917a5000844bc30" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/criminalminds.png" group-title="DRAMA SERIES",Criminal Minds
+#EXTINF:-1 tvg-name="Criminal Minds" tvg-id="65653817c917a5000844bc30" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/criminalminds.png" group-title="SERIES",Criminal Minds
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CSI" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/csi.png" group-title="DRAMA SERIES",CSI
+#EXTINF:-1 tvg-name="CSI" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/csi.png" group-title="SERIES",CSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CSI: Miami" tvg-id="62f54c11b3af68000702c304" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/csimiami.png" group-title="DRAMA SERIES",CSI: Miami
+#EXTINF:-1 tvg-name="CSI: Miami" tvg-id="62f54c11b3af68000702c304" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/csimiami.png" group-title="SERIES",CSI: Miami
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CSI: NY" tvg-id="62f54c6439183b000769fb8f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/csiny.png" group-title="DRAMA SERIES",CSI: NY
+#EXTINF:-1 tvg-name="CSI: NY" tvg-id="62f54c6439183b000769fb8f" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/csiny.png" group-title="SERIES",CSI: NY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Degrassi" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/degrassi.png" group-title="DRAMA SERIES",Degrassi
+#EXTINF:-1 tvg-name="Degrassi" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/degrassi.png" group-title="SERIES",Degrassi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Ebony TV Drama" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ebonytv.png" group-title="DRAMA SERIES",Ebony TV Drama
+#EXTINF:-1 tvg-name="Ebony TV Drama" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ebonytv.png" group-title="SERIES",Ebony TV Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Feel Good Drama" tvg-id="65775af3b3801200084a3aa4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/feelgooddrama.png" group-title="DRAMA SERIES",Feel Good Drama
+#EXTINF:-1 tvg-name="Feel Good Drama" tvg-id="65775af3b3801200084a3aa4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/feelgooddrama.png" group-title="SERIES",Feel Good Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Heartland" tvg-id="61f07513227feb00073ee6bc" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/heartland.png" group-title="DRAMA SERIES",Heartland
+#EXTINF:-1 tvg-name="Heartland" tvg-id="61f07513227feb00073ee6bc" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/heartland.png" group-title="SERIES",Heartland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 
 
 
-#EXTINF:-1 tvg-name="ION" tvg-id="65453f30085df200085883d8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ion.png" group-title="DRAMA SERIES",ION
+#EXTINF:-1 tvg-name="ION" tvg-id="65453f30085df200085883d8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ion.png" group-title="SERIES",ION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Midsomer Murders" tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/midsomermurder.png" group-title="DRAMA SERIES",Midsomer Murders
+#EXTINF:-1 tvg-name="Midsomer Murders" tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/midsomermurder.png" group-title="SERIES",Midsomer Murders
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
 
 
 
-#EXTINF:-1 tvg-name="More Crime Drama" tvg-id="650b6905d1f20c0008586b0c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/morecrimedrama.png" group-title="DRAMA SERIES",More Crime Drama
+#EXTINF:-1 tvg-name="More Crime Drama" tvg-id="650b6905d1f20c0008586b0c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/morecrimedrama.png" group-title="SERIES",More Crime Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-650b6905d1f20c0008586b0c.m3u8
 
 
 
-#EXTINF:-1 tvg-name="More TV Drama" tvg-id="613260e4bdb71c00070d63fa" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moretvdrama.png" group-title="DRAMA SERIES",More TV Drama
+#EXTINF:-1 tvg-name="More TV Drama" tvg-id="613260e4bdb71c00070d63fa" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moretvdrama.png" group-title="SERIES",More TV Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Nash Bridges" tvg-id="6675c742ca74680008566b88" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nashbridges.png" group-title="DRAMA SERIES",Nash Bridges
+#EXTINF:-1 tvg-name="Nash Bridges" tvg-id="6675c742ca74680008566b88" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nashbridges.png" group-title="SERIES",Nash Bridges
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 
 
 
-#EXTINF:-1 tvg-name="DRAMA SERIES Crime Drama" tvg-id="5f31fd1b4c510e00071c3103" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crimedrama.png" group-title="DRAMA SERIES",DRAMA SERIES Crime Drama
+#EXTINF:-1 tvg-name="DRAMA SERIES Crime Drama" tvg-id="5f31fd1b4c510e00071c3103" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crimedrama.png" group-title="SERIES",DRAMA SERIES Crime Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/storiesbyamc.png" group-title="DRAMA SERIES",Stories by AMC
+#EXTINF:-1 tvg-name="Stories by AMC" tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/storiesbyamc.png" group-title="SERIES",Stories by AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Supernatural Drama" tvg-id="5f24662bebe0f0000767de32" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supernaturaldrama.png" group-title="DRAMA SERIES",Supernatural Drama
+#EXTINF:-1 tvg-name="Supernatural Drama" tvg-id="5f24662bebe0f0000767de32" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/supernaturaldrama.png" group-title="SERIES",Supernatural Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 
 
 
 
-#EXTINF:-1 tvg-name="Hallmark Movies & More Holiday Favorites" tvg-id="628e685ba3811100070551a8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hallmarkmovies&more.png" group-title="DRAMA SERIES",Hallmark Movies & More Holiday Favorites
+#EXTINF:-1 tvg-name="Hallmark Movies & More Holiday Favorites" tvg-id="628e685ba3811100070551a8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hallmarkmovies&more.png" group-title="SERIES",Hallmark Movies & More Holiday Favorites
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Paramount+ Picks" tvg-id="5ff8c708653d080007361b14" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="DRAMA SERIES",Paramount+ Picks
+#EXTINF:-1 tvg-name="Paramount+ Picks" tvg-id="5ff8c708653d080007361b14" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="SERIES",Paramount+ Picks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
 
 
 
-#EXTINF:-1 tvg-name="Gunsmoke" tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gunsmoke.png" group-title="DRAMA SERIES",Gunsmoke
+#EXTINF:-1 tvg-name="Gunsmoke" tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gunsmoke.png" group-title="SERIES",Gunsmoke
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Rawhide" tvg-id="634f307c7a068e00072c9982" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rawhide.png" group-title="DRAMA SERIES",Rawhide
+#EXTINF:-1 tvg-name="Rawhide" tvg-id="634f307c7a068e00072c9982" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rawhide.png" group-title="SERIES",Rawhide
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 
 
-#EXTINF:-1 tvg-name="The Rifleman" tvg-id="5e825550e758c700077b0aef" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/therifleman.png" group-title="DRAMA SERIES",The Rifleman
+#EXTINF:-1 tvg-name="The Rifleman" tvg-id="5e825550e758c700077b0aef" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/therifleman.png" group-title="SERIES",The Rifleman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 
 
 
-#EXTINF:-1 tvg-name="The Wild Wild West" tvg-id="664e640a0120f40008be4582" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thewildwildwest.png" group-title="DRAMA SERIES",The Wild Wild West
+#EXTINF:-1 tvg-name="The Wild Wild West" tvg-id="664e640a0120f40008be4582" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thewildwildwest.png" group-title="SERIES",The Wild Wild West
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 
 
 
-#EXTINF:-1 tvg-name="MOVIES Sci-Fi" tvg-id="5b4fc274694c027be6ed3eea" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutoscifi.png" group-title="DRAMA SERIES",Pluto Sci-Fi
+#EXTINF:-1 tvg-name="MOVIES Sci-Fi" tvg-id="5b4fc274694c027be6ed3eea" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutoscifi.png" group-title="SERIES",Pluto Sci-Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 
 
-#EXTINF:-1 tvg-name="Doctor Who Classic" tvg-id="5ce4475cd43850831ca91ce7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/doctorwho.png" group-title="DRAMA SERIES",DOCTOR WHO CLASSIC
+#EXTINF:-1 tvg-name="Doctor Who Classic" tvg-id="5ce4475cd43850831ca91ce7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/doctorwho.png" group-title="SERIES",DOCTOR WHO CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
 
@@ -5320,53 +5285,53 @@ https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Star Trek" tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/startrek.png" group-title="DRAMA SERIES",STAR TREK
+#EXTINF:-1 tvg-name="Star Trek" tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/startrek.png" group-title="SERIES",STAR TREK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Star Trek Deep Space Nine" tvg-id="65c69bbfd77d450008c7ffee" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/startrek.png" group-title="DRAMA SERIES",STAR TREK DEEP SPACE NINE
+#EXTINF:-1 tvg-name="Star Trek Deep Space Nine" tvg-id="65c69bbfd77d450008c7ffee" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/startrek.png" group-title="SERIES",STAR TREK DEEP SPACE NINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Star Trek Voyager" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/startrek.png" group-title="DRAMA SERIES",Star TREK VOYAGER
+#EXTINF:-1 tvg-name="Star Trek Voyager" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/startrek.png" group-title="SERIES",Star TREK VOYAGER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Stargate" tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/stargate.png" group-title="DRAMA SERIES",Stargate
+#EXTINF:-1 tvg-name="Stargate" tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/stargate.png" group-title="SERIES",Stargate
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 
 
-#EXTINF:-1 tvg-name="Mission Impossible" tvg-id="5f77977bd924d80007eee60c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/missionimposible.png" group-title="DRAMA SERIES",Mission Impossible
+#EXTINF:-1 tvg-name="Mission Impossible" tvg-id="5f77977bd924d80007eee60c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/missionimposible.png" group-title="SERIES",Mission Impossible
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="13" tvg-name="THREEPLUS1" tvg-id="mjh-three-plus1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/three+1.png" group-title="DRAMA SERIES",THREEPLUS1
+#EXTINF:-1 tvg-chno="13" tvg-name="THREEPLUS1" tvg-id="mjh-three-plus1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/three+1.png" group-title="SERIES",THREEPLUS1
 https://i.mjh.nz/.r/three-plus1.m3u8
 
 
 
-#EXTINF:-1 tvg-name="The Good Wife" tvg-id="66df70cd61dbf00008fa26ff" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thegoodwife.png" group-title="DRAMA SERIES",The Good Wife
+#EXTINF:-1 tvg-name="The Good Wife" tvg-id="66df70cd61dbf00008fa26ff" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thegoodwife.png" group-title="SERIES",The Good Wife
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-66df70cd61dbf00008fa26ff.m3u8
 
 
 
-#EXTINF:-1 tvg-name="The Walking Dead Universe" tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thewalkingdeaduniverse.png" group-title="DRAMA SERIES",The Walking Dead Universe
+#EXTINF:-1 tvg-name="The Walking Dead Universe" tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thewalkingdeaduniverse.png" group-title="SERIES",The Walking Dead Universe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 
 
 
-#EXTINF:-1 tvg-name="TV Land Drama" tvg-id="5d40bebc5e3d2750a2239d7e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvlanddrama.png" group-title="DRAMA SERIES",TV Land Drama
+#EXTINF:-1 tvg-name="TV Land Drama" tvg-id="5d40bebc5e3d2750a2239d7e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvlanddrama.png" group-title="SERIES",TV Land Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 
@@ -5375,28 +5340,28 @@ https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Beverly Hillbillies" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hillybillies.png" group-title="DRAMA SERIES",Beverly Hillbillies
+#EXTINF:-1 tvg-name="Beverly Hillbillies" tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hillybillies.png" group-title="SERIES",Beverly Hillbillies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
 
-#EXTINF:-1 tvg-name="WARNER BROS TV TRUE CRIME" tvg-id="mjh-discovery-fast4" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crimetvlogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/truecrime.png" group-title="DRAMA SERIES",WARNER BROS TV TRUE CRIME
+#EXTINF:-1 tvg-name="WARNER BROS TV TRUE CRIME" tvg-id="mjh-discovery-fast4" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crimetvlogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/truecrime.png" group-title="SERIES",WARNER BROS TV TRUE CRIME
 https://i.mjh.nz/.r/discovery-fast4.m3u8
 
 
-#EXTINF:-1 tvg-name="Classic TV Comedy" tvg-id="5f15e32b297f96000768f928" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classiccomedy.png" group-title="DRAMA SERIES",Classic TV Comedy
+#EXTINF:-1 tvg-name="Classic TV Comedy" tvg-id="5f15e32b297f96000768f928" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classiccomedy.png" group-title="SERIES",Classic TV Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Classic TV Crime Drama" tvg-id="61325c4f982acd000723287e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classiccrimedrama.png" group-title="DRAMA SERIES",Classic TV Crime Drama
+#EXTINF:-1 tvg-name="Classic TV Crime Drama" tvg-id="61325c4f982acd000723287e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classiccrimedrama.png" group-title="SERIES",Classic TV Crime Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Classic TV Drama" tvg-id="5f15e3cccf49290007053c67" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicdrama.png" group-title="DRAMA SERIES",Classic TV Drama
+#EXTINF:-1 tvg-name="Classic TV Drama" tvg-id="5f15e3cccf49290007053c67" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicdrama.png" group-title="SERIES",Classic TV Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 
@@ -5405,7 +5370,7 @@ https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Classic TV: Families" tvg-id="61325d18f5166c00081b84e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicfamilies.png" group-title="DRAMA SERIES",Classic TV: Families
+#EXTINF:-1 tvg-name="Classic TV: Families" tvg-id="61325d18f5166c00081b84e0" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicfamilies.png" group-title="SERIES",Classic TV: Families
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 
@@ -8603,533 +8568,7 @@ TEMPORARY
 
 
 
-#EXTINF:-1 tvg-chno="28" tvg-name="ASTRO ARENA" tvg-id="Astro.Arena.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arena.png" group-title="SPORTS",ASTRO ARENA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 tvg-chno="30" tvg-name="ASTRO FOOTBALL" tvg-id="Astro.Football.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/football.png" group-title="SPORTS",ASTRO FOOTBALL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/astrofootball/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="32" tvg-name="ASTRO SPORTS PLUS" tvg-id="Astro.Sports.Plus.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sportsplus.png" group-title="SPORTS",ASTRO SPORTS PLUS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="37" tvg-name="BEIN SPORTS 1" tvg-id="beIN.SPORTS.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein.png" group-title="SPORTS",BEIN SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="38" tvg-name="BEIN SPORTS 2" tvg-id="beIN.SPORTS.2.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein2.png" group-title="SPORTS",BEIN SPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="39" tvg-name="BEIN SPORTS 3" tvg-id="beIN.SPORTS.3.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein3.png" group-title="SPORTS",BEIN SPORTS 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="40" tvg-name="BEIN SPORTS 4" tvg-id="beIN.SPORTS.4.(HD).sg" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/beinmax4.png?raw=true" group-title="SPORTS",BEIN SPORTS 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="41" tvg-name="BEIN SPORTS 5" tvg-id="beIN.SPORTS.5.(HD).sg" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/beinmax5.png?raw=true" group-title="SPORTS",BEIN SPORTS 5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="42" tvg-name="BEIN SPORTS HD" tvg-id="udptvus/beinsports" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein.png" group-title="SPORTS",BEIN SPORTS HD FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="43" tvg-name="BEIN SPORTS XTRA" tvg-id="413152" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/bein.png?raw=true" group-title="SPORTS",BEIN SPORTS XTRA
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="44" tvg-name="BILLIARD TV" tvg-id="plex.tv.Billiard.TV.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/billiardtv.png" group-title="SPORTS",BILLARD TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/billardtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="45" tvg-name="BLAST SPORTS" tvg-id="blastPH.Blast.Sports" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blastsports.png" group-title="SPORTS",BLAST SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="53" tvg-name="CBS SPORTS GOLAZO" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golazo.png" group-title="SPORTS",CBS SPORTS GOLAZO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/cbssportsgolazo/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="67" tvg-name="DAZN RINGSIDE" tvg-id="iptv/daznringside" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn.png" group-title="SPORTS",DAZN RINGSIDE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/daznringside/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="82" tvg-name="ESPN" tvg-id="sling/espn" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/espn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="83" tvg-name="ESPN 2" tvg-id="sling/espn2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/espn2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="85" tvg-name="ESPN U" tvg-id="sling/espnu" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN U FHD
-https://fl3.moveonjoy.com/ESPN_U/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-chno="86" tvg-name="EUROSPORT 1" tvg-id="Eurosport.1.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/eurosport1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="87" tvg-name="EUROSPORT 2" tvg-id="Eurosport.2.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/eurosport2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="88" tvg-name="FANDUEL SPORTS NETWORK EXTRA" tvg-id="FanDuel.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fanduelsports.png" group-title="SPORTS",FANDUEL SPORTS NETWORK EXTRA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/fanduelsportsnetworkextra/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="89" tvg-name="FANDUEL SPORTS NETWORK SOUTHWEST" tvg-id="iptv/fanduelsportsnetworksouthwest" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fanduelsports.png" group-title="SPORTS",FANDUEL SPORTS NETWORK SOUTHWEST FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/fanduelsportsnetworksouthwest/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="91" tvg-name="FOX 11" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX 11 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/fox11/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="93" tvg-name="FOX SPORTS" tvg-id="FOXSPORTS.ar" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/foxsports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="94" tvg-name="FOX SPORTS 2" tvg-id="FoxSports2(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/foxsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="95" tvg-name="FOX SPORTS 3" tvg-id="FoxSports3(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/foxsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="97" tvg-name="FS1" tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FS1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/fs1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="98" tvg-name="FS2" tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FS2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/fs2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="103" tvg-name="GO3 SPORT" tvg-id="Go3.Sport.1.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/go3sport.png" group-title="SPORTS",GO3 SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/go3sport/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="104" tvg-name="GO3 SPORT 2" tvg-id="Go3.Sport.2.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/go3sport.png" group-title="SPORTS",GO3 SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/go3sport2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="105" tvg-name="GO3 SPORT OPEN" tvg-id="Go3.Sport.Open.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/go3sport.png" group-title="SPORTS",GO3 SPORT OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/go3sportopen/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="107" tvg-name="GOLF CHANNEL" tvg-id="astro/golfchannel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golf.png" group-title="SPORTS",GOLF CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/golfchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="111" tvg-name="HBO BOXING" tvg-id="Amazon.US.HBOBoxing" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hboboxing.png" group-title="SPORTS",HBO BOXING FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="159" tvg-name="NBA TV - NBALP" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV - NBALP FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/nbatvnbalp/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="160" tvg-name="NBA TV HDTV" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV HDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/nbatvhdtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="161" tvg-name="NBA TV PHILIPPINES" tvg-id="Cgnl.Nba.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV PHILIPPINES FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="162" tvg-name="NBA TV USA" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV USA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/nbatv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="163" tvg-name="NBC GOLF" tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golf.png" group-title="SPORTS",NBC GOLF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/nbc/nbcgolf/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="166" tvg-name="NFL NETWORK" tvg-id="Amazon.US.NFLNetwork" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nflnetwork.png" group-title="SPORTS",NFL NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/nflnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="167" tvg-name="NFL REDZONE NETWORK" tvg-id="NFL.RedZone.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nflredzone.png" group-title="SPORTS",NFL REDZONE NETWORK FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/nflredzonenetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="178" tvg-name="ONE SPORTS" tvg-id="Onesports.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onesports.png" group-title="SPORTS",ONE SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/onesports-1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="179" tvg-name="ONE SPORTS +" tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onesports+.png" group-title="SPORTS",ONE SPORTS + FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="188" tvg-name="PREMIER LEAGUE" tvg-id="Astro.Premier.League.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/uefa.png" group-title="SPORTS",PREMIER LEAGUE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/premierleague/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="189" tvg-name="PREMIER SPORTS" tvg-id="blastPH.Premier.Sports" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/premiersports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="190" tvg-name="PREMIER SPORTS 1 UK" tvg-id="skyuk/premiersports1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/premiersports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="191" tvg-name="PREMIER SPORTS 2" tvg-id="blastPH.Premier.Sports.2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/premiersports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="192" tvg-name="PREMIER SPORTS 2 UK" tvg-id="skyuk/premiersports2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS 2 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/premiersports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="194" tvg-name="RED BULL TV" tvg-id="IT:.Red.Bull.TV.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/redbulltv.png" group-title="SPORTS",RED BULL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/redbulltv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="200" tvg-name="SETANTA SPORTS 1" tvg-id="Setanta.LT.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/setantasports.png" group-title="SPORTS",SETANTA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/setantasport1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="209" tvg-name="SKY CALCIO 2" tvg-id="Sky.Calcio.10..260.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="210" tvg-name="SKY CALCIO 3" tvg-id="Sky.Calcio.11..261.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="211" tvg-name="SKY CALCIO 4" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="212" tvg-name="SKY CALCIO 5" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="213" tvg-name="SKY CALCIO 6" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 6 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio6/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="214" tvg-name="SKY CALCIO 7" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 7 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio7/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="215" tvg-name="SKY CALCIO 8" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 8 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio8/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="216" tvg-name="SKY CALCIO 9" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 9 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skycalcio9/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="238" tvg-name="SKY EUROSPORT 1" tvg-id="Eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",SKY EUROSPORT 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/eurosport1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="239" tvg-name="SKY EUROSPORT 2" tvg-id="Eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",SKY EUROSPORT 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/eurosport2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="246" tvg-name="SKY SPORT 24" tvg-id="Sky.Sport24.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysports.png" group-title="SPORTS",SKY SPORT 24 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysport24/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="247" tvg-name="SKY SPORT ARENA" tvg-id="Sky.Sport.Arena.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsarena.png" group-title="SPORTS",SKY SPORT ARENA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportarena/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="248" tvg-name="SKY SPORT CALCIO" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportscalcio.png" group-title="SPORTS",SKY SPORT CALCIO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportcalcio/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="249" tvg-name="SKY SPORT F1" tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORT F1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportf1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="250" tvg-name="SKY SPORT GOLF" tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsgolf.png" group-title="SPORTS",SKY SPORT GOLF FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportgolf/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="251" tvg-name="SKY SPORT MAX" tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmax.png" group-title="SPORTS",SKY SPORT MAX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportmax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="252" tvg-name="SKY SPORT MOTOGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmotogp.png" group-title="SPORTS",SKY SPORT MOTOGP FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportmotogp/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="253" tvg-name="SKY SPORT NBA" tvg-id="Sky.Sport.NBA.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsnba.png" group-title="SPORTS",SKY SPORT NBA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportnba/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="254" tvg-name="SKY SPORT TENNIS" tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportstennis.png" group-title="SPORTS",SKY SPORT TENNIS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysporttennis/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="255" tvg-name="SKY SPORT UNO" tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsuno.png" group-title="SPORTS",SKY SPORT UNO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skysportuno/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="256" tvg-name="SKY SPORTS ACTION UK" tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsaction.png" group-title="SPORTS",SKY SPORTS ACTION UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="257" tvg-name="SKY SPORTS CRICKET UK" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportscricket.png" group-title="SPORTS",SKY SPORTS CRICKET UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="258" tvg-name="SKY SPORTS F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsf1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="259" tvg-name="SKY SPORTS FOOTBALL UK" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsfootball.png" group-title="SPORTS",SKY SPORTS FOOTBALL UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsfootball/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="260" tvg-name="SKY SPORTS GOLF UK" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsgolf/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="261" tvg-name="SKY SPORTS MAIN EVENT UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmainevent.png" group-title="SPORTS",SKY SPORTS MAIN EVENT UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsmainevent/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="262" tvg-name="SKY SPORTS MIX UK" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmix.png" group-title="SPORTS",SKY SPORTS MIX UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsmix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="263" tvg-name="SKY SPORTS NEWS UK" tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsnews.png" group-title="SPORTS",SKY SPORTS NEWS UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="264" tvg-name="SKY SPORTS PLUS UK" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysports+.png" group-title="SPORTS",SKY SPORTS PLUS UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="265" tvg-name="SKY SPORTS PREMIER LEAGUE UK" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportspremierleague.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportspremierleague/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="266" tvg-name="SKY SPORTS RACING UK" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsracing.png" group-title="SPORTS",SKY SPORTS RACING UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportsracing/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="267" tvg-name="SKY SPORTS TENNIS UK" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportstennis.png" group-title="SPORTS",SKY SPORTS TENNIS UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skysportstennis/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="270" tvg-name="SPO2 TV 2" tvg-id="SPOTV2.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv2.png" group-title="SPORTS",SPO2 TV 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/spo2tv2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="271" tvg-name="SPO TV" tvg-id="SPOTV.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv.png" group-title="SPORTS",SPO TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/spotv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="272" tvg-name="SPORT 1" tvg-id="Sport.1.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1.png" group-title="SPORTS",SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/sport1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="273" tvg-name="SPORT 1 BALTIC" tvg-id="Sports.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1baltic.png" group-title="SPORTS",SPORT 1 BALTIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/sport1baltic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="274" tvg-name="SPORT 2 BALTIC" tvg-id="Sports.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sport2baltic.png" group-title="SPORTS",SPORT 2 BALTIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/sport2baltic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="275" tvg-name="SPORT 4" tvg-id="iptv/sport4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports4.png" group-title="SPORTS",SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/sport4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-
-
-#EXTINF:-1 tvg-chno="296" tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="297" tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tsn2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="298" tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tsn3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="299" tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="300" tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tsn5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="316" tvg-name="W-SPORT" tvg-id="W-Sport.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wsport.png" group-title="SPORTS",W-SPORT FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/wsport/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-chno="19" tvg-name="ALIBI" tvg-id="skyuk/alibi" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/alibi.png" group-title="ENTERTAINMENT",ALIBI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/alibi/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="26" tvg-name="ARIRANG" tvg-id="ArirangTV(src01).kr" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arirang.png" group-title="ENTERTAINMENT",ARIRANG FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/arirang/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="33" tvg-name="AXN" tvg-id="AXN.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png" group-title="ENTERTAINMENT",AXN FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/axn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="80" tvg-name="E! EAST" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/e!.png" group-title="ENTERTAINMENT",E! EAST
-https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-
-#EXTINF:-1 tvg-chno="81" tvg-name="E! WEST" tvg-id="Local.Programming.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/e!.png" group-title="ENTERTAINMENT",E! WEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/nbc/ewest/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="106" tvg-name="GOLD" tvg-id="skyuk/gold" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gold.png" group-title="ENTERTAINMENT",GOLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/gold/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-
-#EXTINF:-1 tvg-chno="112" tvg-name="HBO COMEDY" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbocomedy.png" group-title="ENTERTAINMENT",HBO COMEDY FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="113" tvg-name="HBO COMEDY MAX" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbocomedy.png" group-title="ENTERTAINMENT",HBO COMEDY MAX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/hbocomedymax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="123" tvg-name="HITS" tvg-id="Hits.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hits.png" group-title="ENTERTAINMENT",HITS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/hits/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="125" tvg-name="HITS NOW" tvg-id="HITS.NOW.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsnow.png" group-title="ENTERTAINMENT",HITS NOW FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/hitsnow/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="127" tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iqiyi.png" group-title="ENTERTAINMENT",IQIYI FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/iqiyi/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="132" tvg-name="KIX" tvg-id="Kix.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kix.png" group-title="ENTERTAINMENT",KIX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/kix/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="196" tvg-name="ROCK ENTERTAINMENT" tvg-id="Rock.Entertainment.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockentertainment.png" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/rockentertainment/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="205" tvg-name="SKY ARTS UK" tvg-id="Sky.Arts.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyarts.png" group-title="ENTERTAINMENT",SKY ARTS UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skyarts/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="206" tvg-name="SKY ATLANTIC" tvg-id="Sky.Atlantic.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyatlantic.png" group-title="ENTERTAINMENT",SKY ATLANTIC FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skyatlantic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="207" tvg-name="SKY ATLANTIC UK" tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyatlantic.png" group-title="ENTERTAINMENT",SKY ATLANTIC UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skyatlantic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="283" tvg-name="TAP TV" tvg-id="Taptv.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/taptv.png" group-title="ENTERTAINMENT",TAP TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/taptv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="302" tvg-name="TVN" tvg-id="Cg.Tvnpre.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvn.png" group-title="ENTERTAINMENT",TVN FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tvn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="145" tvg-name="MTV 90'S" tvg-id="MTV90S.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv90s.png" group-title="MUSIC",MTV 90'S FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/mtv90s/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="146" tvg-name="MTV CLASSIC" tvg-id="fubo/mtvclassic" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvclassic.png" group-title="MUSIC",MTV CLASSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/fubo/mtvclassic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="147" tvg-name="MTV HITS" tvg-id="MTV.Hits.se" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvhits.png" group-title="MUSIC",MTV HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/mtvhits/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="148" tvg-name="MTV LIVE" tvg-id="MTV.Live.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvlive.png" group-title="MUSIC",MTV LIVE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/mtvlive/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-#EXTINF:-1 tvg-chno="149" tvg-name="MTV LIVE IT" tvg-id="MTV.Live.HD.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvlive.png" group-title="MUSIC",MTV LIVE IT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/mtvlive/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-#EXTINF:-1 tvg-chno="150" tvg-name="MTV LIVE US" tvg-id="MTV.Live.HD.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvlive.png" group-title="MUSIC",MTV LIVE US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/fubo/mtvlive/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8a
-
-
-#EXTINF:-1 tvg-chno="151" tvg-name="MTV UK" tvg-id="MTV.Live.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="MUSIC",MTV UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/mtvlive/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="152" tvg-name="MTVU" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvu.png" group-title="MUSIC",MTVU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/fubo/mtvu/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="308" tvg-name="VEVO 2K" tvg-id="plex.tv.Vevo.2K.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo2k.png" group-title="MUSIC",VEVO 2K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/vevo2k/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="309" tvg-name="VEVO 70'S" tvg-id="plex.tv.Vevo.`70s.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo70s.png" group-title="MUSIC",VEVO 70'S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/vevo70s/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="310" tvg-name="VEVO 80'S" tvg-id="plex.tv.Vevo.`80s.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo80s.png" group-title="MUSIC",VEVO 80'S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/vevo80s/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="311" tvg-name="VEVO 90'S" tvg-id="plex.tv.Vevo.`90s.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo90s.png" group-title="MUSIC",VEVO 90'S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/vevo90s/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="312" tvg-name="VEVO COUNTRY" tvg-id="plex.tv.Vevo.Country.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevocountry.png" group-title="MUSIC",VEVO COUNTRY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/vevocountry/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="313" tvg-name="VEVO HIP-HOP" tvg-id="plex.tv.Vevo.Hip-Hop.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevohiphop.png" group-title="MUSIC",VEVO HIP-HOP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/vevohiphop/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="314" tvg-name="VEVO R&B" tvg-id="plex.tv.Vevo.Pop.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevor&b.png" group-title="MUSIC",VEVO R&B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/vevorb/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 
 
@@ -9158,32 +8597,12 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="16" tvg-name="ABC AUSTRALIA USA" tvg-id="ABC.Australia.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/abcaustralia.png" group-title="NEWS",ABC AUSTRALIA USA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/abcaustralia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 tvg-chno="18" tvg-name="AL JAZEERA USA" tvg-id="Al.Jazeera.English.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aljazeera.png" group-title="NEWS",AL JAZEERA USA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/aljazeera/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="36" tvg-name="BBC NEWS" tvg-id="BBC.News.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcworld.png" group-title="NEWS",BBC NEWS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/bbcnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="60" tvg-name="CNA" tvg-id="CNA.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cna.png" group-title="NEWS",CNA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/cna/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-chno="61" tvg-name="CNBC" tvg-id="CNBC.Asia.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cnbc.png" group-title="NEWS",CNBC FHD
 https://fl5.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-name="CNN" tvg-id="Cnn.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cnn.png" group-title="NEWS",CNN FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/cnn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 tvg-chno="79" tvg-name="DW" tvg-id="DW.English.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dw.png" group-title="NEWS",DW FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/dw/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-chno="84" tvg-name="ESPN NEWS" tvg-id="sling/espnnews" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espnnews.png" group-title="NEWS",ESPN NEWS FHD
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
@@ -9191,298 +8610,15 @@ https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-chno="92" tvg-name="FOX NEWS" tvg-id="sling/foxnews" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxnews.png" group-title="NEWS",FOX NEWS FHD
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-chno="96" tvg-name="FRANCE 24" tvg-id="France24.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/france24.png" group-title="NEWS",FRANCE 24 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/france24/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="133" tvg-name="KNBC" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/knbc.png" group-title="NEWS",KNBC FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/knbc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="164" tvg-name="NECN" tvg-id="New.England.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/necn.png" group-title="NEWS",NECN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/nbc/necn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="165" tvg-name="NET25" tvg-id="Net.25.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/net25.png" group-title="NEWS",NET25 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/net25/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="176" tvg-name="ONE NEWS" tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onenews.png" group-title="NEWS",ONE NEWS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="243" tvg-name="SKY NEWS" tvg-id="Sky.News.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skynews.png" group-title="NEWS",SKY NEWS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/skynews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="17" tvg-name="ADULT SWIM CA" tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/adultswim.png" group-title="KIDS",ADULT SWIM CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/adultswim/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="23" tvg-name="ANIMAX SG" tvg-id="Animax.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animax.png" group-title="KIDS",ANIMAX SG FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/animax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="24" tvg-name="ANIME X HIDIVE" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animexhidive.png" group-title="KIDS",ANIME X HIDIVE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="25" tvg-name="ANIPLUS" tvg-id="Aniplus.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aniplus.png" group-title="KIDS",ANIPLUS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="46" tvg-name="BLOOMBERG TV" tvg-id="Bloomberg.TV.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bloomberg.png" group-title="KIDS",BLOOMBERG TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/bloombergtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="50" tvg-name="CARTOON NETWORK MY" tvg-id="Cartoon.Network.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK MY FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/astrocartoonnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="51" tvg-name="CARTOON NETWORK UK" tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/cartoonnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="52" tvg-name="CARTOONITO" tvg-id="Cartoonito.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cartoonito.png" group-title="KIDS",CARTOONITO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/boomerang/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="71" tvg-name="DISNEY CHANNEL CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneychannel.png" group-title="KIDS",DISNEY CHANNEL CA FHD
-https://fl5.moveonjoy.com/DISNEY/index.m3u8
-
-#EXTINF:-1 tvg-chno="72" tvg-name="DISNEY CHANNEL US" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneychannel.png" group-title="KIDS",DISNEY CHANNEL US FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/disneychannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-#EXTINF:-1 tvg-chno="74" tvg-name="DISNEY JR US" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneyjr.png" group-title="KIDS",DISNEY JR US FHD
-https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="76" tvg-name="DISNEY XD US" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneyxd.png" group-title="KIDS",DISNEY XD US FHD
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-chno="134" tvg-name="KNOWLEDGE CHANNEL" tvg-id="Knowledge.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/knowledgechannel.png" group-title="KIDS",KNOWLEDGE CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/knowledgechannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="143" tvg-name="MOONBUG KIDS" tvg-id="Moonbug.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moonbugkids.png" group-title="KIDS",MOONBUG KIDS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/moonbugkids/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="170" tvg-name="NICK JUNIOR" tvg-id="Nick.Jr..my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickjr.png" group-title="KIDS",NICK JUNIOR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/nickjunior/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="171" tvg-name="NICK MUSIC" tvg-id="fubo/nickmusic" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickmusic.png" group-title="KIDS",NICK MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/fubo/nickmusic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="172" tvg-name="NICK TOONS" tvg-id="Nicktoons.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nicktoons.png" group-title="KIDS",NICK TOONS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/nicktoons/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="173" tvg-name="NICKELODEON" tvg-id="Nickelodeon.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickelodeon.png" group-title="KIDS",NICKELODEON FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/nickelodeon/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="240" tvg-name="SKY KIDS UK" tvg-id="Sky.Kids.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skykids.png" group-title="KIDS",SKY KIDS UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/skykids/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="22" tvg-name="ANIMAL PLANET USA" tvg-id="Animal.Planet.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animalplanet.png" group-title="DOCUMENTARY",ANIMAL PLANET USA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/animalplanet/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="34" tvg-name="BBC EARTH" tvg-id="BBC.Earth.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcearth.png" group-title="DOCUMENTARY",BBC EARTH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/bbcearth/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="68" tvg-name="DISCOVERY ASIA" tvg-id="Discovery.Asia.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/discoveryasia.png" group-title="DOCUMENTARY",DISCOVERY ASIA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/discoveryasia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="69" tvg-name="DISCOVERY CHANNEL" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/discoverychannel.png" group-title="DOCUMENTARY",DISCOVERY CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="70" tvg-name="DISCOVERY US" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/discoverychannel.png?raw=true" group-title="DOCUMENTARY",DISCOVERY US FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/discovery/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="102" tvg-name="GLOBAL TREKKER" tvg-id="Global.Trekker.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/globaltrekker.png" group-title="DOCUMENTARY",GLOBAL TREKKER FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/globaltrekker/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="122" tvg-name="HISTORY" tvg-id="History.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/history.png" group-title="DOCUMENTARY",HISTORY FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/history/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="138" tvg-name="LOVE NATURE" tvg-id="Love.Nature.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png" group-title="DOCUMENTARY",LOVE NATURE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/lovenature/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="154" tvg-name="NAT GEO WILD" tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/natgeowild.png" group-title="DOCUMENTARY",NAT GEO WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/natgeowild/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="155" tvg-name="NAT GEO WILD US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/natgeowild.png" group-title="DOCUMENTARY",NAT GEO WILD US FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/natgeowild/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="156" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nationalgeographic.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/nationalgeographicchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="157" tvg-name="NATIONAL GEOGRAPHIC CHANNEL CA" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nationalgeographic.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC CHANNEL CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/nationalgeographicca/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="158" tvg-name="NATIONAL GEOGRAPHIC CHANNEL US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nationalgeographic.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC CHANNEL US FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="181" tvg-name="OUTDOOR CHANNEL" tvg-id="udptvus/outdoorchannel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/outdoor.png" group-title="DOCUMENTARY",OUTDOOR CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/outdoorchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="182" tvg-name="OXYGEN TRUE CRIME" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/oxygen.png" group-title="DOCUMENTARY",OXYGEN TRUE CRIME FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/oxygentruecrime/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="27" tvg-name="ASIAN FOOD NETWORK" tvg-id="iptv/asianfoodnetwork" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/afn.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/asianfoodnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="35" tvg-name="BBC FOOD" tvg-id="udptvus/bbcfood" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcfood.png" group-title="LIFESTYLE",BBC FOOD FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/bbcfood/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="77" tvg-name="DMAX" tvg-id="DMAX.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dmax.png" group-title="LIFESTYLE",DMAX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/dmax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="121" tvg-name="HGTV" tvg-id="HGTV.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hgtv.png" group-title="LIFESTYLE",HGTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/hgtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="286" tvg-name="TLC" tvg-id="TLC.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tlc.png" group-title="LIFESTYLE",TLC FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/tlc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="294" tvg-name="TRAVEL CHANNEL IT" tvg-id="Travel.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/travelchannel.png" group-title="LIFESTYLE",TRAVEL CHANNEL IT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptv/travelchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="295" tvg-name="TRAVEL CHANNEL US" tvg-id="Travel.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/travelchannel.png" group-title="LIFESTYLE",TRAVEL CHANNEL US FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/travelchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="19" tvg-name="ALIBI" tvg-id="skyuk/alibi" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/alibi.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/realshow.png" group-title="OTHER",ALIBI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/alibi/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="55" tvg-name="CGTN" tvg-id="CGTN.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtn.png" group-title="OTHER",CGTN FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/cgtn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="106" tvg-name="GOLD" tvg-id="skyuk/gold" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gold.png" group-title="OTHER",GOLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/skyuk/gold/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="108" tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gtv.png" group-title="OTHER",GTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/gtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="128" tvg-name="JUGO PINOY TV" tvg-id="Local.Programming.Dummy.us" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thriller.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/jungopinoy.png" group-title="THRILLER",JUGO PINOY TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/jugopinoytv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="129" tvg-name="K-PLUS" tvg-id="K-Plus.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/k+.png" group-title="OTHER",K-PLUS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/kplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="130" tvg-name="KAPAMILYA CHANNEL" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kapamilyachannel.png" group-title="OTHER",KAPAMILYA CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/kapamilyachannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="131" tvg-name="KBS WORLD" tvg-id="KBS.World.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kbsworld.png" group-title="OTHER",KBS WORLD FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/kbsworld/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="133" tvg-name="KNBC" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/knbc.png" group-title="OTHER",KNBC FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/udptvus/knbc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="136" tvg-name="LIFETIME" tvg-id="Lifetime.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifetime.png" group-title="OTHER",LIFETIME FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/astro/lifetime/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="139" tvg-name="METRO CHANNEL" tvg-id="Metro.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/metrochannel.png" group-title="OTHER",METRO CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/metrochannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="153" tvg-name="MYX GLOBAL" tvg-id="MYX.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/myx.png" group-title="OTHER",MYX GLOBAL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/myxglobal-1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="165" tvg-name="NET25" tvg-id="Net.25.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/net25.png" group-title="OTHER",NET25 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/net25/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="177" tvg-name="ONE PH" tvg-id="Oneph.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/oneph.png" group-title="OTHER",ONE PH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/oneph/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="180" tvg-name="ONE TV ASIA" tvg-id="ONE.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/one.png" group-title="OTHER",ONE TV ASIA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/onetvasia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="186" tvg-name="PBA RUSH" tvg-id="Pbarush.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbarush.png" group-title="OTHER",PBA RUSH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="187" tvg-name="PBO" tvg-id="PBO.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbo.png" group-title="OTHER",PBO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/pbo/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="193" tvg-name="PTV" tvg-id="PTV.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ptv.png" group-title="OTHER",PTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/ptv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="197" tvg-name="RPTV" tvg-id="Rptv.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rptv.png" group-title="OTHER",RPTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/rptv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="198" tvg-name="SARI SARI" tvg-id="Sari.Sari.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sarisari.png" group-title="OTHER",SARI SARI FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/sarisari/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="268" tvg-name="SKY UNO" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyuno.png" group-title="OTHER",SKY UNO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/Sky/skyuno/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="269" tvg-name="SMNI" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/smni.png" group-title="OTHER",SMNI FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/smni/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="283" tvg-name="TAP TV" tvg-id="Taptv.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/taptv.png" group-title="OTHER",TAP TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/taptv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 tvg-chno="301" tvg-name="TV5 HD" tvg-id="Tv5.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv5.png" group-title="OTHER",TV5 HD FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 
 #EXTINF:-1 tvg-name="WARNER BROS TV DEADLIEST CATCH" tvg-id="mjh-discovery-fast2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/deadliestcatch.png" group-title="DOCUMENTARY",WARNER BROS TV DEADLIEST CATCH
 https://i.mjh.nz/.r/discovery-fast2.m3u8
 
-#EXTINF:-1 tvg-name="WARNER BROS TV PARANORMAL" tvg-id="mjh-discovery-fast5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paranormal.png" group-title="THRILLER",WARNER BROS TV PARANORMAL
+#EXTINF:-1 tvg-name="WARNER BROS TV PARANORMAL" tvg-id="mjh-discovery-fast5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paranormal.png" group-title="DOCUMENTARY",WARNER BROS TV PARANORMAL
 https://i.mjh.nz/.r/discovery-fast5.m3u8
 
-#EXTINF:-1 tvg-name="WARNER BROS TV HOUSE HUNTERS" tvg-id="mjh-discovery-fast6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/househunters.png" group-title="THRILLER",WARNER BROS TV HOUSE HUNTERS
+#EXTINF:-1 tvg-name="WARNER BROS TV HOUSE HUNTERS" tvg-id="mjh-discovery-fast6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/househunters.png" group-title="ENTERTAINMENT",WARNER BROS TV HOUSE HUNTERS
 https://i.mjh.nz/.r/discovery-fast6.m3u8
 
 #EXTINF:-1 tvg-name="JUICETV" tvg-id="mjh-mood-1290" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/juicetv.png" group-title="MUSIC",JUICETV
