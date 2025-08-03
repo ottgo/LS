@@ -4348,177 +4348,75 @@ https://tunebox.space/‌PLUTOflickoffury.m3u8
 
 
 
-#EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moviesphere.png" group-title="MOVIE",MovieSphere by Lionsgate
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+#EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moviesphere.png" group-title="MOVIE",MovieSphere by Lionsgate #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmbl.m3u8
+#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="MOVIE",Paramount Movie Channel #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOpmc.m3u8
+#EXTINF:-1 tvg-name="MOVIES Action" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/action.png" group-title="MOVIE",MOVIES Action #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOma.m3u8
+#EXTINF:-1 tvg-name="MOVIES Crime MOVlES" tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crimemovies.png" group-title="MOVIE",MOVIES Crime Movies #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmcm.m3u8
+#EXTINF:-1 tvg-name="MOVIES Cult Films" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cultfilm.png" group-title="MOVIE",MOVIES Cult Films #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmcf.m3u8
+#EXTINF:-1 tvg-name="MOVIES Fantastic" tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fantastic.png" group-title="MOVIE",MOVIES Fantastic #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmf.m3u8
+#EXTINF:-1 tvg-name="MOVIES Horror" tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutohorror.png" group-title="MOVIE",MOVIES Horror #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmh.m3u8
+#EXTINF:-1 tvg-name="MOVIES Terror" tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutoterror.png" group-title="MOVIE",MOVIES Terror #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmt.m3u8
 
-
-
-#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="MOVIE",Paramount Movie Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Action" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/action.png" group-title="MOVIE",MOVIES Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Crime MOVlES" tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crimemovies.png" group-title="MOVIE",MOVIES Crime Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Cult Films" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cultfilm.png" group-title="MOVIE",MOVIES Cult Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Fantastic" tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fantastic.png" group-title="MOVIE",MOVIES Fantastic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Horror" tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutohorror.png" group-title="MOVIE",MOVIES Horror
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Terror" tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutoterror.png" group-title="MOVIE",MOVIES Terror
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Thrillers" tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutothriller.png" group-title="MOVIE",MOVIES Thrillers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
-
-
-
-#EXTINF:-1 tvg-name="MOVIES Westerns" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutowestern.png" group-title="MOVIE",MOVIES Westerns
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 
 
 
 #EXTINF:-1 tvg-name="Universal Monsters" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universemonsters.png" group-title="MOVIE",Universal Monsters
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
-
-
-
-
+https://tunebox.space/PLUTOuniversalmonsters.m3u8
 
 #EXTINF:-1 tvg-name="Holiday Movie Favorites By Lifetime" tvg-id="63335b193583440007c859fb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/holidaymoviefavourites.png" group-title="MOVIE",Holiday Movie Favorites By Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
-
-
-
-
-
-
+https://tunebox.space/PLUTOholidaymoviefavoritesbylifetime.m3u8
 
 #EXTINF:-1 tvg-name="Classic Movie Westerns" tvg-id="61f33318210549000806a530" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/westerntv.png" group-title="MOVIE",Classic Movie Westerns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-
-
-
+https://tunebox.space/PLUTOclassicmoviewesterns.m3u8
 
 #EXTINF:-1 tvg-name="Classic Movies Channel" tvg-id="66df6c7bdd2d690008c21b66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovies.png" group-title="MOVIE",Classic Movies Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-66df6c7bdd2d690008c21b66.m3u8
-
-
-
-
-
-
-
+https://tunebox.space/PLUTOclassicmovieschannel.m3u8
 
 #EXTINF:-1 tvg-name="The Lone Ranger" tvg-id="65a6dafb7bdc8d0008473c85" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/theloneranger.png" group-title="MOVIE",The Lone Ranger
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
-
-
-
-
-
-
-
-
-
-
+https://tunebox.space/PLUTOtheloneranger.m3u8
 
 #EXTINF:-1 tvg-name="Western TV" tvg-id="5e8df4bc16e34700077e77d3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/westerntv.png" group-title="MOVIE",Western TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
-
-
+https://tunebox.space/PLUTOwesterntv.m3u8
 
 #EXTINF:-1 tvg-name="Wild West TV" tvg-id="6661f88f3d173b000845958c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wildwestv.png" group-title="MOVIE",Wild West TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-6661f88f3d173b000845958c.m3u8
-
-
+https://tunebox.space/PLUTOwildwesttv.m3u8
 
 #EXTINF:-1 tvg-name="Classica" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classico.png" group-title="MOVIE",Classica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
-
-
-
-
+https://tunebox.space/PLUTOclassica.m3u8
 
 #EXTINF:-1 tvg-name="Alien Nation by DUST" tvg-id="66621ed08ea5560008fde7c9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aliennation.png" group-title="MOVIE",ALIEN NATION BY DUST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-66621ed08ea5560008fde7c9.m3u8
-
-
-
-
-
-
-
+https://tunebox.space/PLUTOaliennationbydust.m3u8
 
 #EXTINF:-1 tvg-name="OuterSphere" tvg-id="66c638726838ee00085ac20d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/outersphere.png" group-title="MOVIE",OUTERSPHERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
-
-
-
-
-
-
-
+https://tunebox.space/PLUTOoutersphere.m3u8
 
 #EXTINF:-1 tvg-name="Universal Crime" tvg-id="6549341853fc9700083901ac" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universalcrime.png" group-title="MOVIE",Universal Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
+https://tunebox.space/PLUTOuniversalcrime.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="MOVIES Thrillers" tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutothriller.png" group-title="MOVIE",MOVIES Thrillers #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmoviesthriller.m3u8
+#EXTINF:-1 tvg-name="MOVIES Westerns" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/plutowestern.png" group-title="MOVIE",MOVIES Westerns #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://tunebox.space/PLUTOmovieswestern.m3u8
+#EXTINF:-1 tvg-name="Universal Monsters" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universemonsters.png" group-title="MOVIE",Universal Monsters #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
+#EXTINF:-1 tvg-name="Holiday Movie Favorites By Lifetime" tvg-id="63335b193583440007c859fb" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/holidaymoviefavourites.png" group-title="MOVIE",Holiday Movie Favorites By Lifetime #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
+#EXTINF:-1 tvg-name="Classic Movie Westerns" tvg-id="61f33318210549000806a530" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/westerntv.png" group-title="MOVIE",Classic Movie Westerns #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 tvg-name="Classic Movies Channel" tvg-id="66df6c7bdd2d690008c21b66" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classicmovies.png" group-title="MOVIE",Classic Movies Channel #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-66df6c7bdd2d690008c21b66.m3u8
+#EXTINF:-1 tvg-name="The Lone Ranger" tvg-id="65a6dafb7bdc8d0008473c85" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/theloneranger.png" group-title="MOVIE",The Lone Ranger #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
+#EXTINF:-1 tvg-name="Western TV" tvg-id="5e8df4bc16e34700077e77d3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/westerntv.png" group-title="MOVIE",Western TV #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
+#EXTINF:-1 tvg-name="Wild West TV" tvg-id="6661f88f3d173b000845958c" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wildwestv.png" group-title="MOVIE",Wild West TV #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-6661f88f3d173b000845958c.m3u8
+#EXTINF:-1 tvg-name="Classica" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/classico.png" group-title="MOVIE",Classica #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+#EXTINF:-1 tvg-name="Alien Nation by DUST" tvg-id="66621ed08ea5560008fde7c9" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aliennation.png" group-title="MOVIE",ALIEN NATION BY DUST #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-66621ed08ea5560008fde7c9.m3u8
+#EXTINF:-1 tvg-name="OuterSphere" tvg-id="66c638726838ee00085ac20d" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/outersphere.png" group-title="MOVIE",OUTERSPHERE #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
+#EXTINF:-1 tvg-name="Universal Crime" tvg-id="6549341853fc9700083901ac" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universalcrime.png" group-title="MOVIE",Universal Crime #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15 https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 
 
 
@@ -4532,65 +4430,53 @@ https://tunebox.shop/promo2
 
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-title="LOCAL",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+https://tunebox.space/MYtv1.m3u8
 
 #EXTINF:-1 tvg-id="102.astro" ch-number="102" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv2.png" group-title="LOCAL",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+https://tunebox.space/MYtv2.m3u8
 
-#EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv3.png",103 TV3
+#EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv3.png",TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
+https://tunebox.space/MYtv3.mpd
 
 #EXTINF:-1 tvg-id="tv6" ch-number="106" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv6.png" group-title="LOCAL",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-
-
-
-
+https://tunebox.space/MYtv6.m3u8
 
 #EXTINF:-1 tvg-id="147.astro" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/didiktvkpm.png" group-title="LOCAL",DIDIK TV KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+https://tunebox.space/MYdidiktvkpm.m3u8
 
 #EXTINF:-1 tvg-id="148.astro" ch-number="108" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/8tv.png" group-title="LOCAL",8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a9c619074ed38c20e25ad36c3c57c10c": "056e1e49573d2caee5cb4fe78f8c4f3d"}
-https://unifi-live27.secureswiftcontent.com/UnifiHD/live08.mpd
+https://tunebox.space/MY8tv.mpd
 
 #EXTINF:-1 tvg-id="149.astro" ch-number="109" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv9.png" group-title="LOCAL",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+https://tunebox.space/MYtv9.m3u8
 
 #EXTINF:-1 tvg-id="tvokey" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvokey.png" group-title="LOCAL",TV OKEY
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+https://tunebox.space/MYtvokey.m3u8
 
 #EXTINF:-1 tvg-id="114.astro" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvalhijrah.png" group-title="LOCAL",TV ALHIJRAH
-https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+https://tunebox.space/MYtvalhijrah.m3u8
 
 #EXTINF:-1 tvg-id="berita rtm" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beritartm.png" group-title="LOCAL",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+https://tunebox.space/MYberitartm.m3u8
 
 #EXTINF:-1 tvg-id="sukan rtm" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sukanrtm.png" group-title="LOCAL",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+https://tunebox.space/MYsukanrtm.m3u8
 
 #EXTINF:-1 tvg-id="bernama" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bernama.png" group-title="LOCAL",BERNAMA
-https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
-
-
-
-
-
-
-
+https://tunebox.space/MYbernama.m3u8
 
 #EXTINF:-1 tvg-id="633.unifi" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dewanrakyat.png" group-title="LOCAL",DEWAN RAKYAT
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+https://tunebox.space/MYdewanrakyat.m3u8
 
 #EXTINF:-1 tvg-id="633.unifi" ch-number="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dewannegara.png" group-title="LOCAL",DEWAN NEGARA
-https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
-
+https://tunebox.space/MYdewannegara.m3u8
 
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ S I N G A P O R E ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2
@@ -4598,31 +4484,27 @@ https://tunebox.shop/promo2
 #EXTINF:-1 tvg-id="suria.sg" ch-number="158" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/msuria.png" group-title="LOCAL",SURIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
-
+https://tunebox.space/LOCALsuria.mpd
 
 #EXTINF:-1 tvg-id="vasantham.sg" ch-number="162" tvg-name="vasantham" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/vasantham.png" group-title="LOCAL",VASANTHAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+https://tunebox.space/LOCALvasantham.mpd
 
-
- #EXTINF:-1 tvg-id="channel 5.sg" ch-number="304" tvg-name="CHANNEL 5" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/m5.png" group-title="LOCAL",CHANNEL 5
- #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="channel 5.sg" ch-number="304" tvg-name="CHANNEL 5" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/m5.png" group-title="LOCAL",CHANNEL 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
-
+https://tunebox.space/LOCALchannel5.mpd
 
 #EXTINF:-1 tvg-id="channel 8.sg" ch-number="307" tvg-name="CHANNEL 8" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/m8.png" group-title="LOCAL",CHANNEL 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
-
+https://tunebox.space/LOCALchannel8.mpd
 
 #EXTINF:-1 tvg-id="channel u.sg" ch-number="312" tvg-name="CHANNEL U" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/mu.png" group-title="LOCAL",CHANNEL U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+https://tunebox.space/LOCALchannelu.mpd
 
 
 
